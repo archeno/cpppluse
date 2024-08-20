@@ -1,0 +1,2 @@
+# code block copy button
+sphinx-copybutton
