@@ -1,2 +1,5 @@
 # code block copy button
 sphinx-copybutton
+
+# theme
+furo
