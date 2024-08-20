@@ -27,7 +27,20 @@ thread basic
         return 0;   
     }
 
+.. tip:: 
 
+    this is note exam!
+
+.. note:: 
+
+    this is note exam!
+    
+.. warning:: 
+
+    this is note exam!
+.. danger:: 
+    this is danger
+    
 timing in c++
 =============
 
