@@ -11,4 +11,5 @@ Welcome to cplusplus documentation!
    :caption: c++:
 
    c++/thread.rst
+   cmake/cmake.rst
 
