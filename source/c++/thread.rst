@@ -71,4 +71,13 @@ timing in c++
         return 0;   
     }
 
+table
+=======================
 
+.. csv-table:: 
+    :header: 序号,mcu引脚,引脚名称,引脚功能
+    :align: center
+    :widths: 1 2 4 6
+
+    1, PA10, USART1_TX, 串口1发送
+    2, PA9, USART1_RX, 串口1接收 
